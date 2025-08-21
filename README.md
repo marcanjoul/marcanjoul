@@ -6,8 +6,6 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/marcanjoul?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/marcanjoul?style=flat&logo=github"></a>
-  <a href="https://github.com/marcanjoul"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=marcanjoul&style=flat"></a>
   <a href="#"><img alt="Status" src="https://img.shields.io/badge/Actively%20seeking-Internships-brightgreen"></a>
 </p>
 
