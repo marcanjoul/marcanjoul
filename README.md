@@ -19,7 +19,7 @@
 ### 🚀 What I’m building right now
 - **NoteWeb** – AI semantic search across PDFs with embeddings + LLaMA 3 (Ollama), multi‑file ingestion, chunking, and index caching  
 - **Groov** – iOS app using Last.fm to browse albums, with ratings, “to listen”, and UIKit collection views  
-- **SwiftUI App** – Finding the right Idea
+- **SwiftUI App** – Working on an idea...
 
 ---
 
