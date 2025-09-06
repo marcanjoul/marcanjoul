@@ -12,7 +12,7 @@
 ---
 
 ### 🛠 Focus Areas
-- **iOS (UIKit)**: networked apps, clean architecture, data persistence
+- **iOS (UIKit & SwiftUI)**: networked apps, clean architecture, data persistence
 - **AI/IR**: embeddings, vector search, LLM orchestration (Ollama • LLaMA 3)
 - **C & Systems**: data structures, memory management, file I/O
 
