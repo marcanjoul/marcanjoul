@@ -11,12 +11,12 @@
 
 ---
 
-### 🛠 Focus Areas
+### Focus Areas
 - **iOS (UIKit & SwiftUI)**: networked apps, clean architecture, data persistence
 - **AI**: embeddings, vector search, LLM orchestration (Ollama • LLaMA 3)
 - **C & Systems**: data structures, memory management, file I/O
 
-### 🚀 What I’m building right now
+### What I’m building right now
 - **Wish Links** – An iOS App built with SwiftUI where tou can create a wishlist of items you want by pasting links from online websites (or enetring data manually) , you also have the ability to share that wishlist with your friends, as well as create a collaborative wishlist!
 
 ---
