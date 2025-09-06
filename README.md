@@ -23,7 +23,7 @@
 
 ## ⭐ Featured Projects
 
-### 🧠 NoteWeb (Python, AI)
+### NoteWeb (Python, AI)
 Semantic search for PDFs using embeddings + vector DB; conversational answers via LLaMA 3 (Ollama).
 - Multi‑file ingestion, chunking strategies, and caching
 - Follow‑up question memory and top‑chunk synthesis
@@ -31,14 +31,14 @@ Semantic search for PDFs using embeddings + vector DB; conversational answers vi
 \
 `Python` · `PyPDF` · `Ollama (LLaMA 3)`
 
-### 🎵 Groov (iOS, UIKit)
+### Groov (iOS, UIKit)
 Album explorer powered by Last.fm with rating system & to‑listen lists.
 - Async API calls, JSON parsing, modular VCs, UICollectionView layouts
 - Trending section + search tab + album detail screen with star ratings
 \
 `Swift` · `UIKit` · `URLSession` · `Storyboard`
 
-### 🍔 Interactive Restaurant System (C)
+### Interactive Restaurant System (C)
 Self‑ordering kiosk simulation with order editing, tipping logic, receipts.
 - Linked lists, file I/O, modularization, robust error handling
 \
