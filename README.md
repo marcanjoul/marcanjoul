@@ -17,9 +17,7 @@
 - **C & Systems**: data structures, memory management, file I/O
 
 ### 🚀 What I’m building right now
-- **NoteWeb** – AI semantic search across PDFs with embeddings + LLaMA 3 (Ollama), multi‑file ingestion, chunking, and index caching  
-- **Groov** – iOS app using Last.fm to browse albums, with ratings, “to listen”, and UIKit collection views  
-- **SwiftUI App** – Working on an idea...
+- **Wish Links** – An iOS App built with SwiftUI where tou can create a wishlist of items you want by pasting their links from online websites, you also have the ability to share that wishlist with your friends, as well as create a collaborative wishlist!
 
 ---
 
