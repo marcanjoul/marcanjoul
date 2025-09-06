@@ -73,7 +73,7 @@ Self‑ordering kiosk simulation with order editing, tipping logic, receipts.
 ## 📫 Contact Me
 - Email: marc.anjoul@gmail.com
 - LinkedIn: https://www.linkedin.com/in/markanjoul
-- Resume: [resume.pdf](https://github.com/user-attachments/files/21926728/resume.pdf)
+- Resume: [resume.pdf](https://github.com/user-attachments/files/22184532/resume.pdf)
 
 <!-- Optional: GitHub stats (swap username) -->
 <!--
