@@ -1,7 +1,7 @@
 <!-- Headline -->
 <h1 align="center">Hey, I’m Mark 👋</h1>
 <p align="center">
-  CS student • iOS (UIKit) & AI • Looking to collaborate on anything fun, interesting, and helpful • Building polished, real projects that ship 
+  CS student • Looking to collaborate on anything fun, interesting, and helpful
 </p>
 
 <!-- Badges -->
