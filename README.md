@@ -13,7 +13,7 @@
 
 ### 🛠 Focus Areas
 - **iOS (UIKit & SwiftUI)**: networked apps, clean architecture, data persistence
-- **AI/IR**: embeddings, vector search, LLM orchestration (Ollama • LLaMA 3)
+- **AI**: embeddings, vector search, LLM orchestration (Ollama • LLaMA 3)
 - **C & Systems**: data structures, memory management, file I/O
 
 ### 🚀 What I’m building right now
