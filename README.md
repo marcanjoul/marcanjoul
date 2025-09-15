@@ -63,10 +63,8 @@ Self‑ordering kiosk simulation with order editing, tipping logic, receipts.
 ---
 
 ## 📚 Currently learning
-- SwiftUI from scratch 
-- Better RAG pipelines (ranking, chunking, caching strategies)
-- Clean architecture patterns for iOS
-- UI/UX
+- SwiftUI
+- Building fully-functioning Full Stack mobile apps
 
 ---
 
