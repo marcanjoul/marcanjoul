@@ -54,7 +54,7 @@ Self‑ordering kiosk simulation with order editing, tipping logic, receipts.
 
 ---
 
-## 🎯 For Recruiters (fast scan)
+## For Recruiters
 - Built **real shipping code** in **Swift (UIKit)** and **Python (AI/RAG)**  
 - Comfortable with REST APIs, async flows, data modeling, and persistence  
 - Strong CS fundamentals: pointers, memory, algorithms, basic assembly constraints (RISC‑V rules)  
@@ -62,13 +62,13 @@ Self‑ordering kiosk simulation with order editing, tipping logic, receipts.
 
 ---
 
-## 📚 Currently learning
+## Currently learning
 - SwiftUI
 - Building fully-functioning Full Stack mobile apps
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 - Email: marc.anjoul@gmail.com
 - LinkedIn: https://www.linkedin.com/in/markanjoul
 - Resume: [resume.pdf](https://github.com/user-attachments/files/22184532/resume.pdf)
