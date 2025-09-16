@@ -21,7 +21,7 @@
 
 ---
 
-## ⭐ Featured Projects
+## Featured Projects
 
 ### NoteWeb (Python, AI)
 Semantic search for PDFs using embeddings + vector DB; conversational answers via LLaMA 3 (Ollama).
