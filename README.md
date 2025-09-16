@@ -46,7 +46,7 @@ Self‑ordering kiosk simulation with order editing, tipping logic, receipts.
 
 ---
 
-## 🧰 Tech I use
+## Tech I use
 **Languages:** Swift, Python, C, C++, Java (past)  
 **iOS:** UIKit, Auto Layout, Storyboards, (learning SwiftUI)  
 **AI/ML:** Embeddings, RAG, Ollama (LLaMA 3)  
