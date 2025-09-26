@@ -31,9 +31,9 @@ Semantic search for PDFs using embeddings + vector DB; conversational answers vi
 \
 `Python` · `PyPDF` · `Ollama (LLaMA 3)`
 
-### Groov (iOS, UIKit)
+### Groov (iOS, UIKit) [MVP Ready]
 Album explorer powered by Last.fm with rating system & to‑listen lists.
-- Async API calls, JSON parsing, modular VCs, UICollectionView layouts
+- Async API calls, JSON parsing, UICollectionView layouts
 - Trending section + search tab + album detail screen with star ratings
 \
 `Swift` · `UIKit` · `URLSession` · `Storyboard`
