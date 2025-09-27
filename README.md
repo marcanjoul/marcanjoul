@@ -17,7 +17,7 @@
 - **C & Systems**: data structures, memory management, file I/O
 
 ### What I’m building right now
-- **Wish Links** – An iOS App built with SwiftUI where tou can create a wishlist of items you want by pasting links from online websites (or enetring data manually) , you also have the ability to share that wishlist with your friends, as well as create a collaborative wishlist!
+- **App Nest** – An iOS app that facilitates the job application tracking process by automatically adding trackings by email parsing, as well as the ability to manually add a past job, or even paste a past email!
 
 ---
 
@@ -46,11 +46,11 @@ Self‑ordering kiosk simulation with order editing, tipping logic, receipts.
 
 ---
 
-## Tech I use
-**Languages:** Swift, Python, C, C++, Java (past)  
+## Tech I use/have used
+**Languages:** Swift, Python, C, C++, Java (past knowledge)  
 **iOS:** UIKit, Auto Layout, Storyboards, (learning SwiftUI)  
 **AI/ML:** Embeddings, RAG, Ollama (LLaMA 3)  
-**Tools:** Git/GitHub, Notion, Xcode, VS Code
+**Tools:** Git/GitHub, Xcode, VS Code
 
 ---
 
@@ -65,13 +65,14 @@ Self‑ordering kiosk simulation with order editing, tipping logic, receipts.
 ## Currently learning
 - SwiftUI
 - Building fully-functioning Full Stack mobile apps
+- Applied AI
 
 ---
 
 ## Contact Me
 - Email: marc.anjoul@gmail.com
 - LinkedIn: https://www.linkedin.com/in/markanjoul
-- Resume: [resume.pdf](https://github.com/user-attachments/files/22184532/resume.pdf)
+- Resume: [resume.pdf](https://github.com/user-attachments/files/22575274/resume.pdf)
 
 <!-- Optional: GitHub stats (swap username) -->
 <!--
