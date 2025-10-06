@@ -14,7 +14,7 @@
 ### Focus Areas
 - **iOS (UIKit & SwiftUI)**: networked apps, clean architecture, data persistence
 - **AI**: embeddings, vector search, LLM orchestration (Ollama • LLaMA 3)
-- **C & Systems**: data structures, memory management, file I/O
+- **C, C++, & Systems**: data structures, memory management, file I/O
 
 ### What I’m building right now
 - **App Nest** – An iOS app that facilitates the job application tracking process by automatically adding trackings by email parsing, as well as the ability to manually add a past job, or even paste a past email!
@@ -27,7 +27,6 @@
 Semantic search for PDFs using embeddings + vector DB; conversational answers via LLaMA 3 (Ollama).
 - Multi‑file ingestion, chunking strategies, and caching
 - Follow‑up question memory and top‑chunk synthesis
-- Roadmap: CLI UX, multi‑format import (Word/PowerPoint/Excel), index persistence
 \
 `Python` · `PyPDF` · `Ollama (LLaMA 3)`
 
@@ -48,7 +47,7 @@ Self‑ordering kiosk simulation with order editing, tipping logic, receipts.
 
 ## Tech I use/have used
 **Languages:** Swift, Python, C, C++, Java (past knowledge)  
-**iOS:** UIKit, Auto Layout, Storyboards, (learning SwiftUI)  
+**iOS:** UIKit, SwiftUI (in progress) 
 **AI/ML:** Embeddings, RAG, Ollama (LLaMA 3)  
 **Tools:** Git/GitHub, Xcode, VS Code
 
