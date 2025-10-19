@@ -10,11 +10,10 @@
 </p>
 
 ---
-
-### Focus Areas
-- **iOS (UIKit & SwiftUI)**: networked apps, clean architecture, data persistence
-- **AI**: embeddings, vector search, LLM orchestration (Ollama • LLaMA 3)
-- **C, C++, & Systems**: data structures, memory management, file I/O
+### Current Focus
+- **iOS (UIKit & SwiftUI):** Clean architecture, REST APIs, async flows, data persistence  
+- **AI / ML:** Embeddings, vector search, LLM orchestration (Ollama • LLaMA 3)  
+- **Systems (C/C++):** Data structures, memory management, file I/O  
 
 ### What I’m building right now
 - **App Nest** – An iOS app that facilitates the job application tracking process by automatically adding trackings by email parsing, as well as the ability to manually add a past job, or even paste a past email!
@@ -24,47 +23,32 @@
 ## Featured Projects
 
 ### NoteWeb (Python, AI)
-Semantic search for PDFs using embeddings + vector DB; conversational answers via LLaMA 3 (Ollama).
-- Multi‑file ingestion, chunking strategies, and caching
-- Follow‑up question memory and top‑chunk synthesis
+Semantic search for PDFs with embeddings + vector DB and LLaMA 3 (Ollama).  
+Multi-file ingestion • Chunking + caching • Conversational Q&A
 \
 `Python` · `PyPDF` · `Ollama (LLaMA 3)`
 
 ### Groov (iOS, UIKit) [MVP Ready]
-Album explorer powered by Last.fm with rating system & to‑listen lists.
-- Async API calls, JSON parsing, UICollectionView layouts
-- Trending section + search tab + album detail screen with star ratings
+Album explorer using Last.fm API with star ratings + to-listen lists.  
+Async API calls • Custom UICollectionView layouts • Storyboard
 \
 `Swift` · `UIKit` · `URLSession` · `Storyboard`
 
 ### Interactive Restaurant System (C)
-Self‑ordering kiosk simulation with order editing, tipping logic, receipts.
-- Linked lists, file I/O, modularization, robust error handling
+Self-ordering kiosk simulation with linked lists, tipping logic, and receipts.  
 \
 `C` · `Data Structures` · `Pointers`
 
 ---
 
 ## Tech I use/have used
-**Languages:** Swift, Python, C, C++, Java (past knowledge)  
-**iOS:** UIKit, SwiftUI (in progress) 
-**AI/ML:** Embeddings, RAG, Ollama (LLaMA 3)  
-**Tools:** Git/GitHub, Xcode, VS Code
+Swift • Python • C/C++ • UIKit / SwiftUI • Git / Xcode / VS Code  
+AI: Embeddings • RAG • Ollama (LLaMA 3)
 
 ---
 
-## For Recruiters
-- Built **real shipping code** in **Swift (UIKit)** and **Python (AI/RAG)**  
-- Comfortable with REST APIs, async flows, data modeling, and persistence  
-- Strong CS fundamentals: pointers, memory, algorithms, basic assembly constraints (RISC‑V rules)  
-- Seeking **SWE / iOS / AI** internship opportunities
-
----
-
-## Currently learning
-- SwiftUI
-- Building fully-functioning Full Stack mobile apps
-- Applied AI
+### Learning
+SwiftUI • Full-stack mobile apps • Applied AI
 
 ---
 
