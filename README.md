@@ -12,7 +12,7 @@
 ---
 ### Current Focus
 - **iOS (UIKit & SwiftUI):** Clean architecture, REST APIs, async flows, data persistence  
-- **AI / ML:** Embeddings, vector search, LLM orchestration (Ollama • LLaMA 3)  
+- **AI / ML:** Embeddings, vector search, LLM, ML models
 - **Systems (C/C++):** Data structures, memory management, file I/O  
 
 ### What I’m building right now
