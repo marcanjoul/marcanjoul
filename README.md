@@ -57,13 +57,6 @@ AI/ML: Embeddings • RAG • Ollama (LLaMA 3) • Linear Regression
 
 ---
 
-## Github Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcanjoul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcanjoul&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165">
-</p>
-
 
 
 
