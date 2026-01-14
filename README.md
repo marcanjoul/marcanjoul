@@ -11,13 +11,11 @@
 
 ---
 ### Current Focus
-- **iOS (UIKit & SwiftUI):** Clean architecture, REST APIs, async flows, data persistence  
-- **AI / ML:** Embeddings, vector search, LLM, ML models
-- **Systems (C/C++):** Data structures, memory management, file I/O  
+- **iOS (UIKit & SwiftUI):** Clean architecture, UI/UX, MVPs
+- **AI / ML:** Embeddings, vector search, LLM, ML models 
 
 ### What I’m building right now
 - **App Nest** – An iOS app that facilitates the job application tracking process by automatically adding trackings by email parsing, as well as the ability to manually add a past job, or even paste a past email!
-
 ---
 
 ## Featured Projects
@@ -42,28 +40,31 @@ Self-ordering kiosk simulation with linked lists, tipping logic, and receipts.
 ---
 
 ## Tech I use/have used
-Swift • Python • C/C++ • UIKit / SwiftUI • Git / Xcode / VS Code  
-AI: Embeddings • RAG • Ollama (LLaMA 3)
+Swift • Python • C/C++ • UIKit / SwiftUI • Scikit-Learn • Git / Xcode / VS Code  
+AI/ML: Embeddings • RAG • Ollama (LLaMA 3) • Linear Regression
 
 ---
 
 ### Learning
-SwiftUI • Full-stack mobile apps • Applied AI
+ ML Fundamentals
 
 ---
 
 ## Contact Me
 - Email: marc.anjoul@gmail.com
 - LinkedIn: https://www.linkedin.com/in/markanjoul
-- Resume: [resume.pdf](https://github.com/user-attachments/files/22575274/resume.pdf)
+- Resume: [Mark Anjoul Resume.pdf](https://github.com/user-attachments/files/24605438/Mark.Anjoul.Resume.pdf)
 
-<!-- Optional: GitHub stats (swap username) -->
-<!--
+---
+
+## Github Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcanjoul&show_icons=true&hide_border=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcanjoul&layout=compact&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcanjoul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcanjoul&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165">
 </p>
--->
+
+
 
 
 
