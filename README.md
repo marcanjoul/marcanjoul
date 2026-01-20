@@ -11,7 +11,7 @@
 
 ---
 ## Current Focus / What I'm Learning
-- **AI / ML:** Embeddings, vector search, LLM, ML models
+- **AI / ML:** LLM, ML models
 - **Robotics/ HRI:** RARE Research Lab at USF
 - **iOS Development(UIKit & SwiftUI)**
 
