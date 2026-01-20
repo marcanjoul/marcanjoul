@@ -10,45 +10,46 @@
 </p>
 
 ---
-### Current Focus
-- **iOS (UIKit & SwiftUI):** Clean architecture, UI/UX, MVPs
-- **AI / ML:** Embeddings, vector search, LLM, ML models 
+## Current Focus / What I'm Learning
+- **AI / ML:** Embeddings, vector search, LLM, ML models
+- **Robotics/ HRI:** RARE Research Lab at USF
+- **iOS Development(UIKit & SwiftUI)**
 
-### What I’m building right now
-- **App Nest** – An iOS app that facilitates the job application tracking process by automatically adding trackings by email parsing, as well as the ability to manually add a past job, or even paste a past email!
 ---
 
 ## Featured Projects
 
-### NoteWeb (Python, AI)
-Semantic search for PDFs with embeddings + vector DB and LLaMA 3 (Ollama).  
-Multi-file ingestion • Chunking + caching • Conversational Q&A
+### House Price Predictor
+A Linear Regression Model built to predict prices of houses, used as a practice to start learning ML/AI. 
 \
-`Python` · `PyPDF` · `Ollama (LLaMA 3)`
+`Machine Learning` • `Linear Regression ` • `Jupyter Notebook` • `Scikit-Learn` • `Python`
+
+
+### NoteWeb (Python, AI)
+Semantic search for PDFs with embeddings + vector DB and LLaMA 3 (Ollama).
+\
+`Python` • `PyPDF` • `Ollama (LLaMA 3)` • `Multi-file ingestion` • `Chunking + caching` • `Conversational Q&A` 
 
 ### Groov (iOS, UIKit) [MVP Ready]
-Album explorer using Last.fm API with star ratings + to-listen lists.  
-Async API calls • Custom UICollectionView layouts • Storyboard
+Album explorer using Last.fm API with star ratings + to-listen lists.
 \
-`Swift` · `UIKit` · `URLSession` · `Storyboard`
-
-### Interactive Restaurant System (C)
-Self-ordering kiosk simulation with linked lists, tipping logic, and receipts.  
-\
-`C` · `Data Structures` · `Pointers`
+`Swift` • `UIKit` • `URLSession` • `Storyboard` • `Async API calls` • `Custom UICollectionView layouts` • `Storyboard`
 
 ---
 
 ## Tech I use/have used
-Swift • Python • C/C++ • UIKit / SwiftUI • Scikit-Learn • Git / Xcode / VS Code  
-AI/ML: Embeddings • RAG • Ollama (LLaMA 3) • Linear Regression
+### Languages
+Python • Swift •  C/C++ 
+
+### Frameworks
+UIKit • SwiftUI • Scikit-Learn 
+
+### Platforms
+Github • Xcode • VS Code  • Postman • Jupyter Notebook
+
 
 ---
 
-### Learning
- ML Fundamentals
-
----
 
 ## Contact Me
 - Email: marc.anjoul@gmail.com
