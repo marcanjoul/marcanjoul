@@ -37,15 +37,30 @@ Album explorer using Last.fm API with star ratings + to-listen lists.
 
 ---
 
-## Tech I use/have used
-### Languages
-Python • Swift •  C/C++ 
+### 🛠 Tech I Use
 
-### Frameworks
-UIKit • SwiftUI • Scikit-Learn 
+**Languages**
 
-### Platforms
-Github • Xcode • VS Code  • Postman • Jupyter Notebook
+![My Languages](https://skillicons.dev/icons?i=python,swift,c,cpp)
+
+**Frameworks**
+<p>
+  <img src= "https://img.icons8.com/?size=100&id=_BTyk4vBumjx&format=png&color=000000" width = "50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width = "50"/>
+  
+</p>
+
+**Tools/Platforms**
+<p>
+  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="40"/>
+
+</p>
+
+
 
 
 ---
