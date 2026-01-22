@@ -37,7 +37,7 @@ Album explorer using Last.fm API with star ratings + to-listen lists.
 
 ---
 
-### Tech I Use
+## Tech I Use
 
 **Languages**
 
