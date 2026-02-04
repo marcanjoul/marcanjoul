@@ -14,7 +14,30 @@
 - **AI / ML:** LLM, ML models
 - **Robotics/ HRI:** RARE Research Lab at USF
 ---
+## Tech I Use
 
+**Languages**
+
+![My Languages](https://skillicons.dev/icons?i=python,swift,c,cpp,java)
+
+**Frameworks**
+<p>
+  <img src= "https://img.icons8.com/?size=100&id=_BTyk4vBumjx&format=png&color=000000" width = "60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width = "60"/>
+  
+</p>
+
+**Tools/Platforms**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="55"/>
+  <img src="https://images.icon-icons.com/2667/PNG/512/jupyter_app_icon_161280.png" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="50"/>
+</p>
+
+
+![My Tools/Platforms](https://skillicons.dev/icons?i=github,vscode,postman)
+
+---
 ## Featured Projects
 
 ### Hit Predictor
@@ -34,35 +57,6 @@ Album explorer using Last.fm API with star ratings + to-listen lists.
 `Swift` • `UIKit` • `URLSession` • `Storyboard` • `Async API calls` • `Custom UICollectionView layouts` • `Storyboard`
 
 ---
-
-## Tech I Use
-
-**Languages**
-
-![My Languages](https://skillicons.dev/icons?i=python,swift,c,cpp)
-
-**Frameworks**
-<p>
-  <img src= "https://img.icons8.com/?size=100&id=_BTyk4vBumjx&format=png&color=000000" width = "50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width = "50"/>
-  
-</p>
-
-**Tools/Platforms**
-<p>
-  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="40"/>
-
-</p>
-
-
-
-
----
-
 
 ## Contact Me
 - Email: marc.anjoul@gmail.com
