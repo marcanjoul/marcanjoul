@@ -17,10 +17,10 @@
 
 ## Featured Projects
 
-### House Price Predictor
-A Linear Regression Model built to predict prices of houses, used as a practice to start learning ML/AI. 
+### Hit Predictor
+A Logistic Regression Model built to predict the probability of a song being a hit based on audio features
 \
-`Machine Learning` • `Linear Regression ` • `Jupyter Notebook` • `Scikit-Learn` • `Python`
+`Machine Learning` • `Logistic Regression ` • `Jupyter Notebook` • `Scikit-Learn` • `Python`
 
 
 ### NoteWeb (Python, AI)
@@ -67,7 +67,8 @@ Album explorer using Last.fm API with star ratings + to-listen lists.
 ## Contact Me
 - Email: marc.anjoul@gmail.com
 - LinkedIn: https://www.linkedin.com/in/markanjoul
-- Resume: [Mark Anjoul Resume.pdf](https://github.com/user-attachments/files/24605438/Mark.Anjoul.Resume.pdf)
+- Resume: [Mark Anjoul Resume.pdf](https://github.com/user-attachments/files/25073409/Mark.Anjoul.Resume.pdf)
+
 
 ---
 
