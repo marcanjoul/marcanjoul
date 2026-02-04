@@ -13,6 +13,7 @@
 ## Current Focus / What I'm Learning
 - **AI / ML:** LLM, ML models
 - **Robotics/ HRI:** RARE Research Lab at USF
+- **SWE:** Mobile Development
 ---
 ## Tech I Use
 
@@ -29,7 +30,7 @@
 
 **Tools/Platforms**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="55"/>
+  <img src="https://developer.apple.com/assets/elements/icons/xcode-s/xcode-s-256x256_2x.png" width="53"/>
   <img src="https://images.icon-icons.com/2667/PNG/512/jupyter_app_icon_161280.png" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="50"/>
 </p>
