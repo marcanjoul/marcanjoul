@@ -16,8 +16,8 @@
 
 ## What I'm Working On
 
-- **🤖 RARE Lab (USF):** Building conversational social robots — integrating Vosk (STT), Piper (TTS), and LLMs on a Raspberry Pi 5. Also working on CRIE, a system that lets robots explain their intended actions to human teammates in real time.
-- **📱 AppNest:** An iOS app (SwiftUI + Firebase) that centralizes internship/job tracking with AI-assisted email parsing.
+- **🤖 RARE Lab (USF):** Building conversational social robots — integrating Vosk (STT), Piper (TTS), and LLMs on a Raspberry Pi 5. Also working on a system that lets robots explain their intended actions to human teammates in real time.
+- **📱 AppNest:** An iOS app that centralizes internship/job tracking with AI-assisted email parsing.
 - **🎓 Coursework:** Computer Architecture (RISC-V, Verilog, Vivado), Operating Systems (Concurrency, Parallel Programming, Virtualization), and Image Processing (OpenCV, convolution, filtering) .
 
 ---
