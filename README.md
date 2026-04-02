@@ -1,7 +1,7 @@
 <!-- Headline -->
 <h1 align="center">Hey, I'm Mark 👋</h1>
 <p align="center">
-  CS @ University of South Florida • Undergraduate Research Assistant @<a href="https://rarelab.org">RARE Lab</a> • Building at the intersection of AI, robotics, and mobile
+  CS @ University of South Florida • Undergraduate Research Assistant @<a href="https://therarelab.com">RARE Lab</a> • Building at the intersection of AI, robotics, and mobile
 </p>
 
 <!-- Badges -->
