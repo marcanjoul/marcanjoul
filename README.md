@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="50" alt="Raspberry Pi"/>
 </p>
 
-![Tools](https://skillicons.dev/icons?i=github,vscode,linux,postman)
+![Tools](https://skillicons.dev/icons?i=github,vscode,linux,postman,figma)
 
 ---
 
