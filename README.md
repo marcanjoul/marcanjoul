@@ -1,7 +1,8 @@
 <!-- Headline -->
 <h1 align="center">Hey, I'm Mark 👋</h1>
+
 <p align="center">
-  CS @ University of South Florida • Undergraduate Research Assistant @<a href="https://therarelab.com">RARE Lab</a> • Building at the intersection of AI, robotics, and mobile
+  CS @ University of South Florida • Undergraduate Research Assistant @ <a href="https://therarelab.com">RARE Lab</a> • Building at the intersection of AI, robotics, and mobile
 </p>
 
 <!-- Badges -->
@@ -16,9 +17,10 @@
 
 ## What I'm Working On
 
-- **🤖 RARE Lab (USF):** Building conversational social robots — integrating Vosk (STT), Piper (TTS), and LLMs on a Raspberry Pi 5. Also working on a system that lets robots explain their intended actions to human teammates in real time.
-- **📱 AppNest:** An iOS app that centralizes internship/job tracking with AI-assisted email parsing.
-- **🎓 Coursework:** Computer Architecture (RISC-V, Verilog, Vivado), Operating Systems (Concurrency, Parallel Programming, Virtualization), and Image Processing (OpenCV, convolution, filtering) .
+- **🤖 RARE Lab (USF):** Building conversational social robots on the Blossom platform — integrating Vosk (STT), Piper (TTS), and LLMs on a Raspberry Pi 5. Recently got a ReSpeaker mic array working end-to-end (udev rules, PyAudio channel config) and am working on a system that lets robots explain their intended actions to human teammates in real time.
+- **🛍️ HCO OIS Competition:** Built a gamified sales-per-hour tracker for my Hollister store — real people, real shifts, real leaderboard.
+- **📱 AppNest:** iOS app that centralizes internship/job tracking with AI-assisted email parsing. Recently revamped with a glassmorphism design system and migrated to SwiftData.
+- **🎓 Coursework:** Computer Architecture (RISC-V, Verilog, Vivado), Operating Systems (concurrency, parallelism, virtualization), and Image Processing (OpenCV, convolution, filtering).
 
 ---
 
@@ -26,10 +28,9 @@
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=python,swift,c,cpp,java)
+![Languages](https://skillicons.dev/icons?i=python,swift,c,cpp,java,html,css,js)
 
 **Frameworks & Libraries**
-
 <p>
   <img src="https://img.icons8.com/?size=100&id=_BTyk4vBumjx&format=png&color=000000" width="50" alt="SwiftUI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" alt="scikit-learn"/>
@@ -37,26 +38,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" alt="pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="50" alt="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="50" alt="Firebase"/>
 </p>
 
 **Tools & Platforms**
-
 <p>
   <img src="https://developer.apple.com/assets/elements/icons/xcode-s/xcode-s-256x256_2x.png" width="50" alt="Xcode"/>
   <img src="https://images.icon-icons.com/2667/PNG/512/jupyter_app_icon_161280.png" width="50" alt="Jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="50" alt="Raspberry Pi"/>
 </p>
 
-![Tools](https://skillicons.dev/icons?i=github,vscode,linux,postman,figma)
+![Tools](https://skillicons.dev/icons?i=github,vscode,linux,postman,figma,vercel)
 
 ---
 
 ## Featured Projects
 
-### 📱 [AppNest](https://github.com/marcanjoul/AppNest)
-iOS app that centralizes internship/job applications with AI-assisted email parsing.
+### 🛍️ [HCO OIS Competition](https://hco-ois.vercel.app)
+Gamified sales-per-hour tracker built for my Hollister store. Players log shifts, climb a live leaderboard, and progress through a shared "maze" with a manager PIN gate for admin actions. Actively used by real associates on real shifts.
 \
-`Swift` • `SwiftUI` • `Firebase` • `iOS` • `In Progress`
+`HTML` • `CSS` • `JavaScript` • `Firebase` • `Vercel`
+
+### 📱 [AppNest](https://github.com/marcanjoul/AppNest)
+iOS app that centralizes internship/job applications with AI-assisted email parsing and a glassmorphism design system.
+\
+`Swift` • `SwiftUI` • `SwiftData` • `iOS` • `In Progress`
 
 ### 🎵 [Hit Song Predictor](https://github.com/marcanjoul/hit-song-predictor)
 Logistic regression model predicting hit probability from audio features across 2,000+ tracks.
@@ -78,5 +84,3 @@ Album explorer using Last.fm API with star ratings and to-listen lists.
 ## Resume
 
 📄 [Mark_Anjoul_Resume.pdf](https://github.com/user-attachments/files/25959521/Mark_Anjoul_Resume.pdf)
-
----
