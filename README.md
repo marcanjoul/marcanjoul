@@ -83,4 +83,5 @@ Album explorer using Last.fm API with star ratings and to-listen lists.
 
 ## Resume
 
-📄 [Mark_Anjoul_Resume.pdf](https://github.com/user-attachments/files/25959521/Mark_Anjoul_Resume.pdf)
+📄 [Mark_Anjoul_Resume.pdf](https://github.com/user-attachments/files/27561882/Mark_Anjoul_Resume.pdf)
+
