@@ -19,7 +19,7 @@
 
 - **🤖 RARE Lab (USF):** Building conversational social robots on the Blossom platform — integrating Vosk (STT), Piper (TTS), and LLMs on a Raspberry Pi 5. Recently got a ReSpeaker mic array working end-to-end (udev rules, PyAudio channel config) and am working on a system that lets robots explain their intended actions to human teammates in real time.
 - **🛍️ HCO OIS Competition:** Built a gamified sales-per-hour tracker for my Hollister store — real people, real shifts, real leaderboard.
-- **📱 AppNest:** iOS app that centralizes internship/job tracking with AI-assisted email parsing. Recently revamped with a glassmorphism design system and migrated to SwiftData.
+- **📱 App Nest:** iOS app that centralizes internship/job tracking with AI-assisted email parsing. Recently revamped with a glassmorphism design system and migrated to SwiftData.
 - **🎓 Coursework:** Computer Architecture (RISC-V, Verilog, Vivado), Operating Systems (concurrency, parallelism, virtualization), and Image Processing (OpenCV, convolution, filtering).
 
 ---
@@ -59,7 +59,7 @@ Gamified sales-per-hour tracker built for my Hollister store. Players log shifts
 \
 `HTML` • `CSS` • `JavaScript` • `Firebase` • `Vercel`
 
-### 📱 [AppNest](https://github.com/marcanjoul/AppNest)
+### 📱 [App Nest](https://github.com/marcanjoul/app-nest)
 iOS app that centralizes internship/job applications with AI-assisted email parsing and a glassmorphism design system.
 \
 `Swift` • `SwiftUI` • `SwiftData` • `iOS` • `In Progress`
