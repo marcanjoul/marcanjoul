@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Mark 👋</h1>
 
 <p align="center">
-  CS @ University of South Florida • Undergraduate Research Assistant @ <a href="https://therarelab.com">RARE Lab</a> • Building at the intersection of AI, robotics, and mobile
+  CS @ University of South Florida • Undergraduate Research Assistant @ <a href="https://therarelab.com">RARE Lab</a> 
 </p>
 
 <!-- Badges -->
@@ -10,17 +10,16 @@
   <a href="https://markanjoul.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-markanjoul.com-blue?style=flat-square"></a>
   <a href="https://linkedin.com/in/markanjoul"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-markanjoul-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:marc.anjoul@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marc.anjoul@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="#"><img alt="Status" src="https://img.shields.io/badge/Actively%20seeking-Internships-brightgreen?style=flat-square"></a>
+  <a href="#"><img alt="Status" src="https://img.shields.io/badge/Actively%20seeking-Internships/New Grad Positions-brightgreen?style=flat-square"></a>
 </p>
 
 ---
 
 ## What I'm Working On
 
-- **🤖 RARE Lab (USF):** Building conversational social robots on the Blossom platform — integrating Vosk (STT), Piper (TTS), and LLMs on a Raspberry Pi 5. Recently got a ReSpeaker mic array working end-to-end (udev rules, PyAudio channel config) and am working on a system that lets robots explain their intended actions to human teammates in real time.
-- **🛍️ HCO OIS Competition:** Built a gamified sales-per-hour tracker for my Hollister store — real people, real shifts, real leaderboard.
-- **📱 App Nest:** iOS app that centralizes internship/job tracking with AI-assisted email parsing. Recently revamped with a glassmorphism design system and migrated to SwiftData.
-- **🎓 Coursework:** Computer Architecture (RISC-V, Verilog, Vivado), Operating Systems (concurrency, parallelism, virtualization), and Image Processing (OpenCV, convolution, filtering).
+- **🤖 RARE Lab (USF):** Prototyped and developed a UI and Flask dashboard for an NSF-funded social robot study, worked on live SSE state streaming, and integrating STT, TTS, and LLMs.
+- **🛍️ Hollister Competition Dashboard :** Built and deployed a gamified sales-per-hour tracker for my Hollister store, used by 40+ associates.
+- **📱 App Nest:** iOS app that centralizes internship/job tracking with AI-assisted email parsing.
 
 ---
 
@@ -55,12 +54,12 @@
 ## Featured Projects
 
 ### 🛍️ [HCO OIS Competition](https://hco-ois.vercel.app)
-Gamified sales-per-hour tracker built for my Hollister store. Players log shifts, climb a live leaderboard, and progress through a shared "maze" with a manager PIN gate for admin actions. Actively used by real associates on real shifts.
+Gamified sales-per-hour tracker built for my Hollister store. Players log shifts, and climb a live leaderboard. Actively used by 40+ associates!
 \
 `HTML` • `CSS` • `JavaScript` • `Firebase` • `Vercel`
 
 ### 📱 [App Nest](https://github.com/marcanjoul/app-nest)
-iOS app that centralizes internship/job applications with AI-assisted email parsing and a glassmorphism design system.
+iOS app that centralizes internship/job applications with AI-assisted email parsing.
 \
 `Swift` • `SwiftUI` • `SwiftData` • `iOS` • `In Progress`
 
